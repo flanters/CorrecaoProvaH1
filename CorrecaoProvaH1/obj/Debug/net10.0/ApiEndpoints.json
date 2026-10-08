@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "CorrecaoProvaH1.Controllers.EleitoresController",
+    "Method": "Cadastrar",
+    "RelativePath": "api/Eleitores",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "eleitor",
+        "Type": "CorrecaoProvaH1.Eleitor",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CorrecaoProvaH1.Controllers.EleitoresController",
+    "Method": "Listar",
+    "RelativePath": "api/Eleitores",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CorrecaoProvaH1.Controllers.JustificativasController",
+    "Method": "Registrar",
+    "RelativePath": "api/Justificativas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "justificativa",
+        "Type": "CorrecaoProvaH1.Models.Justificativa",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CorrecaoProvaH1.Controllers.JustificativasController",
+    "Method": "Listar",
+    "RelativePath": "api/Justificativas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\flant\\OneDrive\\Desktop\\CorrecaoProvaH1\\CorrecaoProvaH1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9078DFA8-AE50-6E28-B5AF-73AFD539FCD7}|CorrecaoProvaH1\\CorrecaoProvaH1.csproj|c:\\users\\flant\\onedrive\\desktop\\correcaoprovah1\\correcaoprovah1\\correcaoprovah1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9078DFA8-AE50-6E28-B5AF-73AFD539FCD7}|CorrecaoProvaH1\\CorrecaoProvaH1.csproj|solutionrelative:correcaoprovah1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9078DFA8-AE50-6E28-B5AF-73AFD539FCD7}|CorrecaoProvaH1\\CorrecaoProvaH1.csproj|c:\\users\\flant\\onedrive\\desktop\\correcaoprovah1\\correcaoprovah1\\correcaoprovah1\\validations\\validations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9078DFA8-AE50-6E28-B5AF-73AFD539FCD7}|CorrecaoProvaH1\\CorrecaoProvaH1.csproj|solutionrelative:correcaoprovah1\\validations\\validations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9078DFA8-AE50-6E28-B5AF-73AFD539FCD7}|CorrecaoProvaH1\\CorrecaoProvaH1.csproj|c:\\users\\flant\\onedrive\\desktop\\correcaoprovah1\\correcaoprovah1\\correcaoprovah1\\controllers\\eleitorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9078DFA8-AE50-6E28-B5AF-73AFD539FCD7}|CorrecaoProvaH1\\CorrecaoProvaH1.csproj|solutionrelative:correcaoprovah1\\controllers\\eleitorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9078DFA8-AE50-6E28-B5AF-73AFD539FCD7}|CorrecaoProvaH1\\CorrecaoProvaH1.csproj|c:\\users\\flant\\onedrive\\desktop\\correcaoprovah1\\correcaoprovah1\\correcaoprovah1\\interfaces\\ieleitorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9078DFA8-AE50-6E28-B5AF-73AFD539FCD7}|CorrecaoProvaH1\\CorrecaoProvaH1.csproj|solutionrelative:correcaoprovah1\\interfaces\\ieleitorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9078DFA8-AE50-6E28-B5AF-73AFD539FCD7}|CorrecaoProvaH1\\CorrecaoProvaH1.csproj|c:\\users\\flant\\onedrive\\desktop\\correcaoprovah1\\correcaoprovah1\\correcaoprovah1\\interfaces\\ijustificativarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9078DFA8-AE50-6E28-B5AF-73AFD539FCD7}|CorrecaoProvaH1\\CorrecaoProvaH1.csproj|solutionrelative:correcaoprovah1\\interfaces\\ijustificativarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9078DFA8-AE50-6E28-B5AF-73AFD539FCD7}|CorrecaoProvaH1\\CorrecaoProvaH1.csproj|c:\\users\\flant\\onedrive\\desktop\\correcaoprovah1\\correcaoprovah1\\correcaoprovah1\\repositories\\justificativarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9078DFA8-AE50-6E28-B5AF-73AFD539FCD7}|CorrecaoProvaH1\\CorrecaoProvaH1.csproj|solutionrelative:correcaoprovah1\\repositories\\justificativarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9078DFA8-AE50-6E28-B5AF-73AFD539FCD7}|CorrecaoProvaH1\\CorrecaoProvaH1.csproj|c:\\users\\flant\\onedrive\\desktop\\correcaoprovah1\\correcaoprovah1\\correcaoprovah1\\controllers\\justificativascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9078DFA8-AE50-6E28-B5AF-73AFD539FCD7}|CorrecaoProvaH1\\CorrecaoProvaH1.csproj|solutionrelative:correcaoprovah1\\controllers\\justificativascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9078DFA8-AE50-6E28-B5AF-73AFD539FCD7}|CorrecaoProvaH1\\CorrecaoProvaH1.csproj|c:\\users\\flant\\onedrive\\desktop\\correcaoprovah1\\correcaoprovah1\\correcaoprovah1\\repositories\\eleitorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9078DFA8-AE50-6E28-B5AF-73AFD539FCD7}|CorrecaoProvaH1\\CorrecaoProvaH1.csproj|solutionrelative:correcaoprovah1\\repositories\\eleitorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9078DFA8-AE50-6E28-B5AF-73AFD539FCD7}|CorrecaoProvaH1\\CorrecaoProvaH1.csproj|c:\\users\\flant\\onedrive\\desktop\\correcaoprovah1\\correcaoprovah1\\correcaoprovah1\\models\\justificativa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9078DFA8-AE50-6E28-B5AF-73AFD539FCD7}|CorrecaoProvaH1\\CorrecaoProvaH1.csproj|solutionrelative:correcaoprovah1\\models\\justificativa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9078DFA8-AE50-6E28-B5AF-73AFD539FCD7}|CorrecaoProvaH1\\CorrecaoProvaH1.csproj|c:\\users\\flant\\onedrive\\desktop\\correcaoprovah1\\correcaoprovah1\\correcaoprovah1\\models\\eleitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9078DFA8-AE50-6E28-B5AF-73AFD539FCD7}|CorrecaoProvaH1\\CorrecaoProvaH1.csproj|solutionrelative:correcaoprovah1\\models\\eleitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9078DFA8-AE50-6E28-B5AF-73AFD539FCD7}|CorrecaoProvaH1\\CorrecaoProvaH1.csproj|c:\\users\\flant\\onedrive\\desktop\\correcaoprovah1\\correcaoprovah1\\correcaoprovah1\\correcaoprovah1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9078DFA8-AE50-6E28-B5AF-73AFD539FCD7}|CorrecaoProvaH1\\CorrecaoProvaH1.csproj|solutionrelative:correcaoprovah1\\correcaoprovah1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\flant\\OneDrive\\Desktop\\CorrecaoProvaH1\\CorrecaoProvaH1\\CorrecaoProvaH1\\Program.cs",
+              "RelativeDocumentMoniker": "CorrecaoProvaH1\\Program.cs",
+              "ToolTip": "C:\\Users\\flant\\OneDrive\\Desktop\\CorrecaoProvaH1\\CorrecaoProvaH1\\CorrecaoProvaH1\\Program.cs",
+              "RelativeToolTip": "CorrecaoProvaH1\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T00:26:17.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Validations.cs",
+              "DocumentMoniker": "C:\\Users\\flant\\OneDrive\\Desktop\\CorrecaoProvaH1\\CorrecaoProvaH1\\CorrecaoProvaH1\\Validations\\Validations.cs",
+              "RelativeDocumentMoniker": "CorrecaoProvaH1\\Validations\\Validations.cs",
+              "ToolTip": "C:\\Users\\flant\\OneDrive\\Desktop\\CorrecaoProvaH1\\CorrecaoProvaH1\\CorrecaoProvaH1\\Validations\\Validations.cs",
+              "RelativeToolTip": "CorrecaoProvaH1\\Validations\\Validations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T01:59:08.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EleitoresController.cs",
+              "DocumentMoniker": "C:\\Users\\flant\\OneDrive\\Desktop\\CorrecaoProvaH1\\CorrecaoProvaH1\\CorrecaoProvaH1\\Controllers\\EleitoresController.cs",
+              "RelativeDocumentMoniker": "CorrecaoProvaH1\\Controllers\\EleitoresController.cs",
+              "ToolTip": "C:\\Users\\flant\\OneDrive\\Desktop\\CorrecaoProvaH1\\CorrecaoProvaH1\\CorrecaoProvaH1\\Controllers\\EleitoresController.cs",
+              "RelativeToolTip": "CorrecaoProvaH1\\Controllers\\EleitoresController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T00:23:15.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEleitorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\flant\\OneDrive\\Desktop\\CorrecaoProvaH1\\CorrecaoProvaH1\\CorrecaoProvaH1\\Interfaces\\IEleitorRepository.cs",
+              "RelativeDocumentMoniker": "CorrecaoProvaH1\\Interfaces\\IEleitorRepository.cs",
+              "ToolTip": "C:\\Users\\flant\\OneDrive\\Desktop\\CorrecaoProvaH1\\CorrecaoProvaH1\\CorrecaoProvaH1\\Interfaces\\IEleitorRepository.cs",
+              "RelativeToolTip": "CorrecaoProvaH1\\Interfaces\\IEleitorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T01:49:22.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IJustificativaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\flant\\OneDrive\\Desktop\\CorrecaoProvaH1\\CorrecaoProvaH1\\CorrecaoProvaH1\\Interfaces\\IJustificativaRepository.cs",
+              "RelativeDocumentMoniker": "CorrecaoProvaH1\\Interfaces\\IJustificativaRepository.cs",
+              "ToolTip": "C:\\Users\\flant\\OneDrive\\Desktop\\CorrecaoProvaH1\\CorrecaoProvaH1\\CorrecaoProvaH1\\Interfaces\\IJustificativaRepository.cs",
+              "RelativeToolTip": "CorrecaoProvaH1\\Interfaces\\IJustificativaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T01:49:52.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JustificativaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\flant\\OneDrive\\Desktop\\CorrecaoProvaH1\\CorrecaoProvaH1\\CorrecaoProvaH1\\Repositories\\JustificativaRepository.cs",
+              "RelativeDocumentMoniker": "CorrecaoProvaH1\\Repositories\\JustificativaRepository.cs",
+              "ToolTip": "C:\\Users\\flant\\OneDrive\\Desktop\\CorrecaoProvaH1\\CorrecaoProvaH1\\CorrecaoProvaH1\\Repositories\\JustificativaRepository.cs",
+              "RelativeToolTip": "CorrecaoProvaH1\\Repositories\\JustificativaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T01:47:28.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JustificativasController.cs",
+              "DocumentMoniker": "C:\\Users\\flant\\OneDrive\\Desktop\\CorrecaoProvaH1\\CorrecaoProvaH1\\CorrecaoProvaH1\\Controllers\\JustificativasController.cs",
+              "RelativeDocumentMoniker": "CorrecaoProvaH1\\Controllers\\JustificativasController.cs",
+              "ToolTip": "C:\\Users\\flant\\OneDrive\\Desktop\\CorrecaoProvaH1\\CorrecaoProvaH1\\CorrecaoProvaH1\\Controllers\\JustificativasController.cs",
+              "RelativeToolTip": "CorrecaoProvaH1\\Controllers\\JustificativasController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T00:23:43.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EleitorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\flant\\OneDrive\\Desktop\\CorrecaoProvaH1\\CorrecaoProvaH1\\CorrecaoProvaH1\\Repositories\\EleitorRepository.cs",
+              "RelativeDocumentMoniker": "CorrecaoProvaH1\\Repositories\\EleitorRepository.cs",
+              "ToolTip": "C:\\Users\\flant\\OneDrive\\Desktop\\CorrecaoProvaH1\\CorrecaoProvaH1\\CorrecaoProvaH1\\Repositories\\EleitorRepository.cs",
+              "RelativeToolTip": "CorrecaoProvaH1\\Repositories\\EleitorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T01:46:57.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Justificativa.cs",
+              "DocumentMoniker": "C:\\Users\\flant\\OneDrive\\Desktop\\CorrecaoProvaH1\\CorrecaoProvaH1\\CorrecaoProvaH1\\Models\\Justificativa.cs",
+              "RelativeDocumentMoniker": "CorrecaoProvaH1\\Models\\Justificativa.cs",
+              "ToolTip": "C:\\Users\\flant\\OneDrive\\Desktop\\CorrecaoProvaH1\\CorrecaoProvaH1\\CorrecaoProvaH1\\Models\\Justificativa.cs",
+              "RelativeToolTip": "CorrecaoProvaH1\\Models\\Justificativa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T00:22:04.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Eleitor.cs",
+              "DocumentMoniker": "C:\\Users\\flant\\OneDrive\\Desktop\\CorrecaoProvaH1\\CorrecaoProvaH1\\CorrecaoProvaH1\\Models\\Eleitor.cs",
+              "RelativeDocumentMoniker": "CorrecaoProvaH1\\Models\\Eleitor.cs",
+              "ToolTip": "C:\\Users\\flant\\OneDrive\\Desktop\\CorrecaoProvaH1\\CorrecaoProvaH1\\CorrecaoProvaH1\\Models\\Eleitor.cs",
+              "RelativeToolTip": "CorrecaoProvaH1\\Models\\Eleitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T00:20:38.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CorrecaoProvaH1.csproj",
+              "DocumentMoniker": "C:\\Users\\flant\\OneDrive\\Desktop\\CorrecaoProvaH1\\CorrecaoProvaH1\\CorrecaoProvaH1\\CorrecaoProvaH1.csproj",
+              "RelativeDocumentMoniker": "CorrecaoProvaH1\\CorrecaoProvaH1.csproj",
+              "ToolTip": "C:\\Users\\flant\\OneDrive\\Desktop\\CorrecaoProvaH1\\CorrecaoProvaH1\\CorrecaoProvaH1\\CorrecaoProvaH1.csproj",
+              "RelativeToolTip": "CorrecaoProvaH1\\CorrecaoProvaH1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-08T00:24:06.373Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

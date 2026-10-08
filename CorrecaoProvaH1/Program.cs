@@ -1,4 +1,7 @@
 
+using CorrecaoProvaH1.Interfaces;
+using CorrecaoProvaH1.Repositories;
+
 namespace CorrecaoProvaH1
 {
     public class Program
@@ -10,6 +13,8 @@ namespace CorrecaoProvaH1
             // Add services to the container.
 
             builder.Services.AddControllers();
+            builder.Services.AddSingleton<IEleitorRepository, EleitorRepository>();
+            builder.Services.AddSingleton<IJustificativaRepository, JustificativaRepository>();
             // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
             builder.Services.AddOpenApi();
 
@@ -29,6 +34,7 @@ namespace CorrecaoProvaH1
             app.MapControllers();
 
             app.Run();
+
         }
     }
 }
